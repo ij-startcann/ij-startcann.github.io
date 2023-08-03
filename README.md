@@ -1,6 +1,5 @@
 #  ij.start.canon
 
-[![ij.start.canon](Get-Started-Now-Button-PNG-Pic.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 Canon Printer setup is the favourite printing device for millions of users in the world. Canon printers are easy to setup and can be connected with any device whether you prefer windows, mac or smartphone. You can get this software even while sitting at home also. For this visit [ij.start.canon](https://ij-startcann.github.io/) and download the driver software. 
 
